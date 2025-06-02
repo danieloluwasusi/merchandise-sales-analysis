@@ -1,5 +1,9 @@
 # Merchandise Sales Analysis – Power BI Insights
 
+## Dashboard Overview
+
+![Dashboard Screenshot](./images/dashboard.png)
+
 ## 1. Sales & Revenue Overview
 - **Total Sales:** $856,462
 - **Total Orders:** 7,394
