@@ -2,7 +2,7 @@
 
 ## Dashboard Overview
 
-<img src="images/calls dashboard.png"/>
+<img src="images/calls and sales analysis.png"/>
 
 ## 1. Sales & Revenue Overview
 - **Total Sales:** $856,462
