@@ -2,8 +2,6 @@
 
 ## Dashboard Overview
 
-![Calls and Sales Analysis](calls%20and%20sales%20analysis.png)
-
 ## 1. Sales & Revenue Overview
 - **Total Sales:** $856,462
 - **Total Orders:** 7,394
